@@ -1,0 +1,18 @@
+.body{
+
+  background: url(../img/bg.png) no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  /*text-align: center;*/
+}
+img{display: inline-block;
+  /*margin:0 auto;*/
+ /* position: absolute;
+  bottom:1px;
+  left: 50% ;
+  transform: translate(-50px 0);*/
+margin-bottom: 46px;
+
+}

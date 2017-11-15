@@ -1,0 +1,41 @@
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td { margin:0; padding:0;
+
+    /*color:  #828282;*/
+    /*font-size: 16px;*/
+    font-family: "PingFangSC-Regular";
+    /*caret-color:#007aff;*/
+}
+body{
+    /*background: #F0F0F0;*/
+}
+h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, fieldset, legend, button,i,span,div{
+    -webkit-user-select: none; /*禁止选中文本*/
+    user-select: none;
+
+}
+body, button, input, select, textarea {
+    outline:none;}
+h1, h2, h3, h4, h5, h6{ font-size:100%; }
+address, cite, dfn, em, var { font-style:normal; }
+
+
+ul, ol { list-style:none; }
+a,i { text-decoration:none; font-style: normal;}
+　input:-moz-placeholder,
+textarea:-moz-placeholder {
+   /* color: #d7d7d7;
+    font-size: 16px;*/
+}
+
+input:-ms-input-placeholder,
+textarea:-ms-input-placeholder {
+   /* color: #d7d7d7;
+    font-size: 16px;*/
+}
+
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+   /* color: #d7d7d7;
+    font-size: 16px;*/
+}
+
